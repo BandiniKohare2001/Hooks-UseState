@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+}
+
+.card{
+    height: 300px;
+    width: 270px;
+    padding: 5px;
+    border: 2px solid ;
+   background-color: white;
+    border-radius: 20px;
+}
+img{
+    height: 180px;
+    width: 270px;
+    margin-left: auto;
+    border-radius: 20px;
+}
+.card-title{
+    text-align: center;
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+  }
